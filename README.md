@@ -187,3 +187,10 @@ In summary:
 - Use **customer feedback**, **targeted promotions**, and **enhanced visibility** to maximize gadget sales  
 - Emphasize **standard delivery**, **popular payment methods**, and **add-on items** to optimize performance  
 - Adopt **loyalty strategies** and **educational content** to increase engagement and customer retention
+
+  ---
+
+  ## 7. Dashboard
+
+  
+<img width="1843" height="660" alt="Screenshot 2025-09-22 123905" src="https://github.com/user-attachments/assets/c43685b1-dae2-44a5-a651-7041130a6d5b" />
